@@ -1,0 +1,73 @@
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    font-weight: 500;
+    color:rgb(10, 10, 10);
+    text-shadow: 2px 2px 3px gray;
+}
+
+div.Chairimg {
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 550px;
+    background-color: rgb(250, 246, 246);
+    margin-left: 60px;
+    box-shadow: 6px 6px 15px 4px gray;
+    display:inline-block;
+    vertical-align: middle;
+    margin-right: 60px;
+    
+}
+
+img {
+    width: 300px;
+    height: 200px
+}
+
+h2 {
+    color:black;
+    margin-left: 50px;
+}
+
+div.container1 > p {
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 300px;
+    margin-left: 30px;
+    font-size: larger;
+}
+
+div.container2 > p {
+    align-items: center;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 300px;
+    margin-left: 30px;
+    font-size: larger;
+}
+
+table{
+    border-spacing: 20px;
+}
+a {
+    text-decoration: none;
+    text-emphasis: 10px;
+    font-weight: 300px;
+}
+
+button {
+    width: 120px;
+    height: 35px;
+    color:whitesmoke;
+    background-color: rgb(8, 128, 98);
+    border-color:rgb(8, 128, 98);
+    cursor: pointer;
+    border-radius: 3px;
+    margin: auto;
+}
+
+p {
+    font-size: xx-large;
+    font-weight: 300;
+
+}
